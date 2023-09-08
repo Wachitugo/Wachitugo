@@ -6,9 +6,9 @@
 **Duocano de corazon**
 
 🐁🐁🐁🐁🐁🐁🐁🐁
-//////////////////////////////////
+
 Benjamín Alejandro Ruiz Almonacid
-//////////////////////////////////
+
 - 🌸🌸🌸19 primaveras🌸🌸🌸
 - karateka 🥋🥋
 - una hija(pepa)🐕🐕🐕
