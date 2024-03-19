@@ -16,7 +16,7 @@ Benjamín Alejandro Ruiz Almonacid
 - 👽👽👽👽👽
 - El mas capito
 - lolero con orgullo
-- main gp
+- Oso Maestro#las
 
 ![cuentiao](https://user-images.githubusercontent.com/107078547/229401610-1d4d4691-6a94-4ac9-830b-515fb506f935.jpg)
 
