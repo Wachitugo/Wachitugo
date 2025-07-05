@@ -38,14 +38,12 @@ With a strong foundation in software engineering, I specialize in building scala
 - 📸 [Instagram](https://instagram.com/pepalover._)
 
 ---
-### 📄 Curriculum Vitae
+
+### 🌱 About Me
 
 For a more detailed view of my professional experience and education, please check out my [Curriculum Vitae](https://github.com/Wachitugo/Wachitugo/blob/main/Curriculum%20Vitae%20English.pdf).
----
 
-### 🐾 Fun Fact
 
-I love dogs and I'm always eager to learn something new every day.
 
----
+
 
