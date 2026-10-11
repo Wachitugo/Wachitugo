@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="A bug gets squashed by the Enter key">
+<style>
+.walk{animation:walk 8s linear infinite}
+@keyframes walk{0%{transform:translateX(0)}58%{transform:translateX(640px)}100%{transform:translateX(640px)}}
+.squash{transform-box:fill-box;transform-origin:center bottom;animation:squash 8s ease-out infinite}
+@keyframes squash{0%,61%{transform:scale(1,1)}63%,96%{transform:scale(1.5,.18)}100%{transform:scale(1,1)}}
+.leg{stroke:#1d2430;stroke-width:3;stroke-linecap:round;transform-box:fill-box;transform-origin:top center}
+.l0{animation:step .3s ease-in-out infinite alternate} .l1{animation:step .3s ease-in-out infinite alternate-reverse}
+@keyframes step{from{transform:rotate(-18deg)}to{transform:rotate(18deg)}}
+.key{animation:press 8s ease-in infinite}
+@keyframes press{0%,56%{transform:translateY(-52px)}61%{transform:translateY(0)}72%{transform:translateY(0)}82%,100%{transform:translateY(-52px)}}
+.done{opacity:0;animation:done 8s linear infinite}
+@keyframes done{0%,63%{opacity:0}66%,94%{opacity:1}97%,100%{opacity:0}}
+.lbl{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;font-weight:800;fill:#ffffff;letter-spacing:1.5px}
+.dn{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace;font-size:15px;font-weight:700;fill:#2ea44f}
+.say{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace;font-size:13px;fill:#e0537a}
+.bub{opacity:0;animation:bub 8s linear infinite}
+@keyframes bub{0%,8%{opacity:0}12%,45%{opacity:1}50%,100%{opacity:0}}
+</style>
+<line x1="30" y1="137" x2="970" y2="137" stroke="#8b98ab" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+<g class="walk">
+  <g transform="translate(90,120)">
+    <g class="bub"><rect x="-58" y="-62" width="128" height="26" rx="8" fill="#ffe3ea"/><path d="M-6 -36 l8 10 l4 -10z" fill="#ffe3ea"/>
+      <text x="6" y="-44" text-anchor="middle" class="say">NullPointer!</text></g>
+    <g class="squash">
+      <g transform="translate(0,-4)"><line x1="-10" y1="0" x2="-18" y2="12" class="leg l0"/><line x1="-10" y1="0" x2="-18" y2="12" class="leg l1"/><line x1="0" y1="0" x2="-3" y2="12" class="leg l0"/><line x1="0" y1="0" x2="3" y2="12" class="leg l1"/><line x1="10" y1="0" x2="18" y2="12" class="leg l0"/><line x1="10" y1="0" x2="18" y2="12" class="leg l1"/></g>
+      <ellipse cx="0" cy="-2" rx="20" ry="13" fill="#e0537a"/>
+      <line x1="0" y1="-15" x2="0" y2="11" stroke="#1d2430" stroke-width="2"/>
+      <circle cx="-7" cy="-4" r="3" fill="#1d2430"/><circle cx="8" cy="2" r="3" fill="#1d2430"/>
+      <circle cx="23" cy="-6" r="8" fill="#1d2430"/>
+      <circle cx="26" cy="-8" r="2.2" fill="#fff"/>
+      <path d="M27 -13 q6 -10 12 -8 M24 -14 q2 -11 8 -12" stroke="#1d2430" stroke-width="2" fill="none"/>
+    </g>
+  </g>
+</g>
+<g class="key">
+  <rect x="690" y="62" width="96" height="58" rx="10" fill="#0d1b2e"/>
+  <rect x="694" y="64" width="88" height="48" rx="8" fill="#1F4E79"/>
+  <text x="738" y="94" text-anchor="middle" class="lbl">ENTER</text>
+</g>
+<g class="done"><text x="820" y="100" class="dn">bug fixed</text><text x="820" y="120" class="dn" style="fill:#8b98ab;font-size:12px">(for now)</text></g>
+</svg>

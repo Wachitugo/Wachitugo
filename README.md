@@ -17,7 +17,10 @@
 
 ## About me
 
-<img align="right" width="190" src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" alt="Benjamín Ruiz" />
+<table align="right"><tr><td align="center">
+<img width="170" src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" alt="Head of Code Review" /><br/>
+<sub><b>Head of Code Review</b><br/>approves nothing on Fridays</sub>
+</td></tr></table>
 
 ```python
 class Benjamin:
@@ -33,6 +36,15 @@ class Benjamin:
 ```
 
 <br clear="right"/>
+
+---
+
+## A day in my terminal
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="58%" alt="Terminal with funny dev commands" />
+  <img src="./assets/coffee.svg" width="40%" alt="Converting coffee into code" />
+</p>
 
 ---
 
@@ -78,6 +90,10 @@ class Benjamin:
 
 Open to backend, cloud and applied-AI roles. Reach me at **benjaruiz70@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-ruiz-a94ab030a/).
 Full résumé: [English](./Curriculum%20Vitae%20English.pdf) · [Español](./Curriculum%20Vitae%20Spanish.pdf)
+
+<p align="center">
+  <img src="./assets/bug.svg" width="100%" alt="A bug gets squashed by the Enter key" />
+</p>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />

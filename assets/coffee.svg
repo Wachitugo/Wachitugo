@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" aria-label="Converting coffee into code">
+<style>
+.h{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;fill:#ffffff;letter-spacing:.5px}
+.pc{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace;font-size:13px;fill:#ffd36e;opacity:0}
+.steam{fill:none;stroke:#c9d6e8;stroke-width:4;stroke-linecap:round;opacity:0;animation:rise 2.4s ease-in infinite}
+.s2{animation-delay:.8s} .s3{animation-delay:1.6s}
+@keyframes rise{0%{opacity:0;transform:translateY(12px)}30%{opacity:.9}100%{opacity:0;transform:translateY(-26px)}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:fill 9.0s ease-out infinite}
+@keyframes fill{0%{transform:scaleX(.02)}55%{transform:scaleX(.97)}100%{transform:scaleX(.99)}}
+.code{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace;font-size:14px;font-weight:700;fill:#7fdbff;opacity:0;animation:pop 3s ease-in-out infinite}
+.c2{animation-delay:1s} .c3{animation-delay:2s}
+@keyframes pop{0%{opacity:0;transform:translate(0,0)}40%{opacity:1}100%{opacity:0;transform:translate(46px,-30px)}}
+.cup{transform-box:fill-box;transform-origin:center bottom;animation:wobble 3s ease-in-out infinite}
+@keyframes wobble{0%,100%{transform:rotate(0)}10%{transform:rotate(-4deg)}20%{transform:rotate(3deg)}30%{transform:rotate(0)}}
+@keyframes k0{0.001%,11.111%{opacity:1}11.112%,100%{opacity:0}} .f0{animation:k0 9.0s linear infinite}
+@keyframes k1{0%,11.111%{opacity:0}11.112%,22.222%{opacity:1}22.223%,100%{opacity:0}} .f1{animation:k1 9.0s linear infinite}
+@keyframes k2{0%,22.222%{opacity:0}22.223%,33.333%{opacity:1}33.334%,100%{opacity:0}} .f2{animation:k2 9.0s linear infinite}
+@keyframes k3{0%,33.333%{opacity:0}33.334%,44.444%{opacity:1}44.445%,100%{opacity:0}} .f3{animation:k3 9.0s linear infinite}
+@keyframes k4{0%,44.444%{opacity:0}44.445%,55.556%{opacity:1}55.557%,100%{opacity:0}} .f4{animation:k4 9.0s linear infinite}
+@keyframes k5{0%,55.556%{opacity:0}55.557%,66.667%{opacity:1}66.668%,100%{opacity:0}} .f5{animation:k5 9.0s linear infinite}
+@keyframes k6{0%,66.667%{opacity:0}66.668%,100.000%{opacity:1}} .f6{animation:k6 9.0s linear infinite}
+</style>
+<rect width="400" height="320" rx="14" fill="#0d1b2e"/>
+<text x="200" y="40" text-anchor="middle" class="h">CONVERTING COFFEE INTO CODE</text>
+<path class="steam" d="M150 112 q-8 -12 0 -24 q8 -12 0 -24"/>
+<path class="steam s2" d="M172 112 q-8 -12 0 -24 q8 -12 0 -24"/>
+<path class="steam s3" d="M194 112 q-8 -12 0 -24 q8 -12 0 -24"/>
+<g class="cup">
+  <path d="M120 120 h104 l-10 92 a12 12 0 0 1 -12 10 h-60 a12 12 0 0 1 -12 -10 z" fill="#e8eef7"/>
+  <path d="M224 138 h14 a20 20 0 0 1 0 40 h-18" fill="none" stroke="#e8eef7" stroke-width="9"/>
+  <ellipse cx="172" cy="122" rx="50" ry="6" fill="#6b4226"/>
+  <text x="172" y="182" text-anchor="middle" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace;font-size:22px;font-weight:800;fill:#1F4E79">&lt;/&gt;</text>
+  <rect x="108" y="222" width="128" height="8" rx="4" fill="#c9d6e8"/>
+</g>
+<text x="262" y="150" class="code">{ }</text>
+<text x="262" y="150" class="code c2">;</text>
+<text x="262" y="150" class="code c3">=&gt;</text>
+<rect x="60" y="244" width="280" height="10" rx="5" fill="#1d3352"/>
+<rect x="60" y="244" width="280" height="10" rx="5" fill="#5ee38b" class="bar"/>
+<text x="200" y="268" text-anchor="middle" class="pc f0">12%</text><text x="200" y="268" text-anchor="middle" class="pc f1">37%</text><text x="200" y="268" text-anchor="middle" class="pc f2">64%</text><text x="200" y="268" text-anchor="middle" class="pc f3">89%</text><text x="200" y="268" text-anchor="middle" class="pc f4">99%</text><text x="200" y="268" text-anchor="middle" class="pc f5">99%</text><text x="200" y="268" text-anchor="middle" class="pc f6">99%... still compiling</text>
+<text x="200" y="296" text-anchor="middle" style="font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;fill:#8b98ab">powered by café de grano · Puerto Montt</text>
+</svg>
