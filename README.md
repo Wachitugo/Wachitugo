@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Benjamín Ruiz</h1>
-<h3 align="center">Software Engineer · Backend · Cloud · Applied AI — Puerto Montt, Chile 🇨🇱</h3>
+<h1 align="center">Hi, I'm Benjamín Ruiz</h1>
+<h3 align="center">Software Engineer · Backend · Cloud · Applied AI — Puerto Montt, Chile</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" width="180px" alt="Benjamín Ruiz" />
@@ -14,30 +14,30 @@
 
 ---
 
-### 🌱 About me
+### About me
 
 I'm a software engineer who builds **backend systems, cloud infrastructure and AI agents** that run in production.
 Lately I've been designing **multi-agent systems with RAG** on Google Cloud (Vertex AI, Gemini, LangGraph) for the mining and education sectors, taking them from architecture to deployment with Terraform and CI/CD.
 
 ---
 
-### 💼 What I'm working on
+### Current projects
 
-- ⛏️ **Codelco — AyP SPA** · Multi-agent RAG platform that generates and manages operational forms for mining plants. Vertex AI Agent Builder, Gemini, Pub/Sub, Firestore, BigQuery ML.
-- 📚 **Digital Class Book — AyP SPA** · Backend and cloud infrastructure for a school management platform, including its finance module.
-- 🏫 **Convivencia Inteligente** · Multi-tenant SaaS for school coexistence regulations, with Gemini-powered agents. Migrated from Azure to GCP (Cloud Run, Terraform, Cloud Build).
-- 🧠 **Krino Insight** · Tech lead of an AI agent system for assisted academic grading, built on Azure.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Codelco** · AyP SPA | Multi-agent RAG platform that generates and manages operational forms for mining plants. | Vertex AI Agent Builder, Gemini, Pub/Sub, Firestore, BigQuery ML |
+| **Digital Class Book** · AyP SPA | Backend and cloud infrastructure for a school management platform, including its finance module. | GCP, backend APIs, CI/CD |
+| **[Convivencia Inteligente](https://convivenciainteligente.cl)** | Multi-tenant SaaS for school coexistence regulations, with Gemini-powered agents. Migrated from Azure to GCP. | Vertex AI, Gemini, Cloud Run, Terraform, Cloud Build |
+| **Krino Insight** | AI agent system for assisted academic grading. Tech lead, from product definition to deployment. | Azure, LangGraph, SQL |
+
+### Side projects
+
+- **Image Label Reader** · Multimodal model that interprets labels in images and extracts numbers with OCR.
+- **CS:GO Winner Predictor** · ML model that predicts the winning team from in-game statistics.
 
 ---
 
-### 🚀 Side projects
-
-- 🏷️ **Image Label Reader** · Multimodal model that interprets labels in images and extracts numbers with OCR.
-- 🎮 **CS:GO Winner Predictor** · ML model that predicts the winning team from in-game statistics.
-
----
-
-### 🛠️ Tech stack
+### Tech stack
 
 | Area | Tools |
 | --- | --- |
@@ -50,8 +50,8 @@ Lately I've been designing **multi-agent systems with RAG** on Google Cloud (Ver
 
 ---
 
-### 📫 Let's talk
+### Contact
 
 Open to backend, cloud and applied-AI roles. Reach me at **benjaruiz70@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-ruiz-a94ab030a/).
 
-📄 Full résumé: [English](./Curriculum%20Vitae%20English.pdf) · [Español](./Curriculum%20Vitae%20Spanish.pdf)
+Full résumé: [English](./Curriculum%20Vitae%20English.pdf) · [Español](./Curriculum%20Vitae%20Spanish.pdf)
