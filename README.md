@@ -1,49 +1,57 @@
 <h1 align="center">Hi 👋, I'm Benjamín Ruiz</h1>
-<h3 align="center">A passionate Data Scientist from Chile</h3>
+<h3 align="center">Software Engineer · Backend · Cloud · Applied AI — Puerto Montt, Chile 🇨🇱</h3>
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" width="200px" alt="Benjamín Ruiz" />
+  <img src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" width="180px" alt="Benjamín Ruiz" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjam%C3%ADn-ruiz-a94ab030a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:benjaruiz70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="./Curriculum%20Vitae%20English.pdf"><img src="https://img.shields.io/badge/CV-English-1F4E79?style=for-the-badge" alt="CV English"/></a>
+  <a href="./Curriculum%20Vitae%20Spanish.pdf"><img src="https://img.shields.io/badge/CV-Español-1F4E79?style=for-the-badge" alt="CV Español"/></a>
 </p>
 
 ---
 
-### 🌱 About Me
+### 🌱 About me
 
-I'm deeply passionate about Machine Learning, Deep Learning and Data-Driven Systems.  
-With a strong foundation in software engineering, I specialize in building scalable and intelligent systems using AI.
-
----
-
-### 🚀 Projects I'm Proud Of
-
-- 🧠 **AI Evaluation Agent Platform**: A web app with LangGraph agents capable of reviewing written tests using a rubric aligned with predefined problem criteria.
-- 🏷️ **Image Label Reader**: A multimodal model that detects the meaning of a label in an image and extracts the number using OCR techniques.
-- 🎮 **CS:GO Winner Predictor**: A machine learning project that analyzes match data and predicts the winning team based on in-game statistics.
+I'm a software engineer who builds **backend systems, cloud infrastructure and AI agents** that run in production.
+Lately I've been designing **multi-agent systems with RAG** on Google Cloud (Vertex AI, Gemini, LangGraph) for the mining and education sectors, taking them from architecture to deployment with Terraform and CI/CD.
 
 ---
 
-### 💡 Technical Skills
+### 💼 What I'm working on
 
-- **Languages**: Python, Java, C++, Go
-- **ML/DL**: TensorFlow, YOLO, scikit-learn, LangGraph, Kedro
-- **Web**: Django, FastAPI
-- **Tools**: Git, SQL, Docker, Linux
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: **benjaruiz70@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-ruiz-a94ab030a/)  
-- 📸 [Instagram](https://instagram.com/pepalover._)
+- ⛏️ **Codelco — AyP SPA** · Multi-agent RAG platform that generates and manages operational forms for mining plants. Vertex AI Agent Builder, Gemini, Pub/Sub, Firestore, BigQuery ML.
+- 📚 **Digital Class Book — AyP SPA** · Backend and cloud infrastructure for a school management platform, including its finance module.
+- 🏫 **Convivencia Inteligente** · Multi-tenant SaaS for school coexistence regulations, with Gemini-powered agents. Migrated from Azure to GCP (Cloud Run, Terraform, Cloud Build).
+- 🧠 **Krino Insight** · Tech lead of an AI agent system for assisted academic grading, built on Azure.
 
 ---
 
-### 🌱 About Me
+### 🚀 Side projects
 
-For a more detailed view of my professional experience and education, please check out my [Curriculum Vitae](https://github.com/Wachitugo/Wachitugo/blob/main/Curriculum%20Vitae%20English.pdf).
+- 🏷️ **Image Label Reader** · Multimodal model that interprets labels in images and extracts numbers with OCR.
+- 🎮 **CS:GO Winner Predictor** · ML model that predicts the winning team from in-game statistics.
 
+---
 
+### 🛠️ Tech stack
 
+| Area | Tools |
+| --- | --- |
+| **AI & agents** | Vertex AI, Gemini, LangGraph, RAG, TensorFlow, YOLO, scikit-learn |
+| **Languages** | Python, Java, JavaScript / TypeScript, Go, C++ |
+| **Backend** | Django, FastAPI, Kedro |
+| **Cloud** | Google Cloud (Cloud Run, Pub/Sub, Firestore, BigQuery), Microsoft Azure |
+| **DevOps & IaC** | Terraform, Docker, GitHub Actions, Cloud Build, Azure DevOps |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Oracle, Firestore |
 
+---
 
+### 📫 Let's talk
+
+Open to backend, cloud and applied-AI roles. Reach me at **benjaruiz70@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-ruiz-a94ab030a/).
+
+📄 Full résumé: [English](./Curriculum%20Vitae%20English.pdf) · [Español](./Curriculum%20Vitae%20Spanish.pdf)
