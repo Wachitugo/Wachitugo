@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Benjamín Ruiz</h1>
-<h3 align="center">Software Engineer · Backend · Cloud · Applied AI — Puerto Montt, Chile</h3>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Benjamín Ruiz — Software Engineer · Backend · Cloud · Applied AI" />
+</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" width="180px" alt="Benjamín Ruiz" />
+  <img src="./assets/typing.svg" alt="building multi-agent systems with RAG" />
 </p>
 
 <p align="center">
@@ -14,14 +15,28 @@
 
 ---
 
-### About me
+## About me
 
-I'm a software engineer who builds **backend systems, cloud infrastructure and AI agents** that run in production.
-Lately I've been building **multi-agent systems with RAG** on Google Cloud (Vertex AI, Gemini, LangGraph) and taking them from architecture to deployment with Terraform and CI/CD.
+<img align="right" width="190" src="https://i.pinimg.com/originals/d5/5f/42/d55f42c1edee2c7f60b803a51f0f17df.jpg" alt="Benjamín Ruiz" />
+
+```python
+class Benjamin:
+    role      = "Software Engineer"
+    location  = "Puerto Montt, Chile"
+    focus     = ["Backend", "Cloud", "Multi-agent systems with RAG"]
+    clouds    = ["Google Cloud", "Azure"]
+    infra     = "Terraform + CI/CD, always"
+    speaks    = {"Spanish": "native", "English": "intermediate"}
+
+    def say_hi(self):
+        return "Thanks for stopping by, let's build something!"
+```
+
+<br clear="right"/>
 
 ---
 
-### Recent work
+## Recent work
 
 | Project | My role | Stack |
 | --- | --- | --- |
@@ -30,28 +45,40 @@ Lately I've been building **multi-agent systems with RAG** on Google Cloud (Vert
 | **SaaS platform** · Education sector | Backend development and DevOps: migrated services from Azure to GCP, infrastructure as code and CI/CD pipelines. | Cloud Run, Terraform, Cloud Build, Vertex AI |
 | **Krino Insight** | Tech lead: led the team, designed the APIs and the Azure cloud architecture. | Azure, LangGraph, SQL |
 
-### Side projects
-
-- **Image Label Reader** · Multimodal model that interprets labels in images and extracts numbers with OCR.
-- **CS:GO Winner Predictor** · ML model that predicts the winning team from in-game statistics.
+**Side projects:** Image Label Reader (multimodal model + OCR) · CS:GO Winner Predictor (ML on match statistics)
 
 ---
 
-### Tech stack
+## Tech stack
 
-| Area | Tools |
-| --- | --- |
-| **AI & agents** | Vertex AI, Gemini, LangGraph, RAG, TensorFlow, YOLO, scikit-learn |
-| **Languages** | Python, Java, JavaScript / TypeScript, Go, C++ |
-| **Backend** | Django, FastAPI, Kedro |
-| **Cloud** | Google Cloud (Cloud Run, Pub/Sub, Firestore, BigQuery), Microsoft Azure |
-| **DevOps & IaC** | Terraform, Docker, GitHub Actions, Cloud Build, Azure DevOps |
-| **Databases** | PostgreSQL, MySQL, SQL Server, Oracle, Firestore |
+<p align="center"><b>Languages & frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,go,cpp,django,fastapi&perline=8" alt="Python, Java, JavaScript, TypeScript, Go, C++, Django, FastAPI" />
+</p>
+
+<p align="center"><b>Cloud, DevOps & data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,azure,terraform,docker,githubactions,postgres,mysql,linux&perline=8" alt="Google Cloud, Azure, Terraform, Docker, GitHub Actions, PostgreSQL, MySQL, Linux" />
+</p>
+
+<p align="center"><b>AI & agents</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-1F4E79?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/YOLO-00A3A3?style=flat-square" alt="YOLO"/>
+</p>
 
 ---
 
-### Contact
+## Let's talk
 
 Open to backend, cloud and applied-AI roles. Reach me at **benjaruiz70@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-ruiz-a94ab030a/).
-
 Full résumé: [English](./Curriculum%20Vitae%20English.pdf) · [Español](./Curriculum%20Vitae%20Spanish.pdf)
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
+</p>
