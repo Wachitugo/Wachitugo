@@ -17,18 +17,18 @@
 ### About me
 
 I'm a software engineer who builds **backend systems, cloud infrastructure and AI agents** that run in production.
-Lately I've been designing **multi-agent systems with RAG** on Google Cloud (Vertex AI, Gemini, LangGraph) for the mining and education sectors, taking them from architecture to deployment with Terraform and CI/CD.
+Lately I've been building **multi-agent systems with RAG** on Google Cloud (Vertex AI, Gemini, LangGraph) and taking them from architecture to deployment with Terraform and CI/CD.
 
 ---
 
-### Current projects
+### Recent work
 
-| Project | What it is | Stack |
+| Project | My role | Stack |
 | --- | --- | --- |
-| **Codelco** · AyP SPA | Multi-agent RAG platform that generates and manages operational forms for mining plants. | Vertex AI Agent Builder, Gemini, Pub/Sub, Firestore, BigQuery ML |
-| **Digital Class Book** · AyP SPA | Backend and cloud infrastructure for a school management platform, including its finance module. | GCP, backend APIs, CI/CD |
-| **[Convivencia Inteligente](https://convivenciainteligente.cl)** | Multi-tenant SaaS for school coexistence regulations, with Gemini-powered agents. Migrated from Azure to GCP. | Vertex AI, Gemini, Cloud Run, Terraform, Cloud Build |
-| **Krino Insight** | AI agent system for assisted academic grading. Tech lead, from product definition to deployment. | Azure, LangGraph, SQL |
+| **Codelco** · AyP SPA | Built multi-agent systems with RAG, the backend services and the cloud infrastructure. | Vertex AI, Gemini, Pub/Sub, Firestore, BigQuery ML |
+| **Digital Class Book** · AyP SPA | Developed the backend and set up the cloud infrastructure. | GCP, CI/CD |
+| **SaaS platform** · Education sector | Backend development and DevOps: migrated services from Azure to GCP, infrastructure as code and CI/CD pipelines. | Cloud Run, Terraform, Cloud Build, Vertex AI |
+| **Krino Insight** | Tech lead: led the team, designed the APIs and the Azure cloud architecture. | Azure, LangGraph, SQL |
 
 ### Side projects
 
